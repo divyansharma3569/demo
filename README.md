@@ -1,2 +1,2 @@
 # demo
-checking for Git and GitHub
+checking for Git and GitHub.
